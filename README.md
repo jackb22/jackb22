@@ -10,12 +10,6 @@
 [![HackerRank: jbenentt3](https://img.shields.io/badge/-jbennett3-blue?style=plastic&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/jbennett3)](https://www.hackerrank.com/jbennett3)
 
 
-
-
-<a href="https://www.hackerrank.com/jbennett3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jbennett3" height="30" width="40" /></a>
-
-
-
 ```javascript
 const Jack = {
   pronouns: "he" | "him",
