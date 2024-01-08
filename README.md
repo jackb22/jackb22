@@ -12,7 +12,6 @@
 
 ```javascript
 const Jack = {
-  pronouns: "he" | "him",
   code: ["Javascript", "CSS", "HTML", "Java", "PHP", "Python", "C++"],
   machineLearning: ["TensorFlow", "scikit_learn"],
   database: ["mongodb", "Oracle", "MySQL", "PostgreSQL"],
