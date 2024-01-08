@@ -1,6 +1,6 @@
 <h2>Hi, I'm Jack Bennett</h2>
 <p>
-  Graduated <a href="https://laurentian.ca/">Laurentian University</a> with Bachelors of Commerce with a minor in Computer Science<br>
+  Graduated <a href="https://laurentian.ca/">Laurentian University</a> with a Honors Bachelors of Commerce with a minor in Computer Science<br>
 </p>
 
 <h3>👱🏼 About Me</h3>
